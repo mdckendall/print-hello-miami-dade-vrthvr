@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Hello MDC",
+      "setup": "",
+      "run": "python3 main.py",
+      "input": "",
+      "output": "Hello Miami Dade College!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
